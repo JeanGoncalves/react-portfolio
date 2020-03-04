@@ -1,15 +1,15 @@
 # Universal React with Next.js - The Ultimate Guide
 
  - **Project 1 - Portfolio App**
-     - [✓] Setting up Portfolio Project
-     - [✓] Next Links, Serving Static Images
-     - [✓] Components in Next, CSS with Styled JSX
-     - [✓] Next Router, NProgress for Route Loading State
-     - [✓] Custom Document Page
-     - [✓] Fetching Data with getInitialProps
-     - [✓] Custom Error Page
-     - [✓] Dynamic Pages with Query Parameters
-     - [✓] Cleaner Urls without Query Params
+     - [x] Setting up Portfolio Project
+     - [x] Next Links, Serving Static Images
+     - [x] Components in Next, CSS with Styled JSX
+     - [x] Next Router, NProgress for Route Loading State
+     - [x] Custom Document Page
+     - [x] Fetching Data with getInitialProps
+     - [x] Custom Error Page
+     - [x] Dynamic Pages with Query Parameters
+     - [x] Cleaner Urls without Query Params
      - [ ] Deploying our App as a Static Site to Now v1 (Outdated)
      - [ ] Deploying Static Sites with Now v2 (Updated)
 
